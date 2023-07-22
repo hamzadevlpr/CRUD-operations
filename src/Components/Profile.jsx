@@ -146,7 +146,7 @@ export default function Profile() {
                     </div>
                 </div>
 
-                <div className="mt-6 flex items-center justify-center flex-col gap-8 w-96 m-auto">
+                <div className="mt-6 flex items-center justify-center flex-col gap-8 w-96 m-auto mb-10">
                     <button type="button" className="text-sm font-semibold leading-6 text-gray-900 border-2 w-full px-3 py-2">
                         Cancel
                     </button>
